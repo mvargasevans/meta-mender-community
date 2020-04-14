@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+  <manifest>
+
+  <remote fetch="git://github.com/compulab-yokneam" name="compulab"/>
+  <project name="meta-bsp-imx7" remote="compulab" revision="devel-warrior" path="sources/meta-bsp-imx7"/>
+
+  </manifest>
